@@ -1,4 +1,4 @@
-# Hate Speech Classification Project
+# Hate Speech Classification
 # Overview
 
 This repository contains code and resources for a machine learning project focused on classifying comments as abusive or non-abusive using different techniques. The project is divided into three parts: TF-IDF + KNN classification, LSTM-based classification, and Multilingual language model classification using mBERT and MuRIL.
