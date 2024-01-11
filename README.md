@@ -1,7 +1,7 @@
 # Hate Speech Classification
 # Overview
 
-This repository contains code and resources for a machine learning project focused on classifying comments as abusive or non-abusive using different techniques. The project is divided into three parts: TF-IDF + KNN classification, LSTM-based classification, and Multilingual language model classification using mBERT and MuRIL.
+This repository contains code and resources for a machine learning project focused on classifying comments as abusive or non-abusive using different techniques. The project is divided into three parts: TF-IDF + KNN classification and LSTM-based classification.
 Dataset
 
 The dataset consists of around 20,000 comments in the Hindi language, labeled as either abusive (0) or non-abusive (1). The dataset is provided in the Google Drive link. The comments have been preprocessed, and each data point includes the comment text and its corresponding label.
